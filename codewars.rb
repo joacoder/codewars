@@ -5,6 +5,3 @@ def greet(name)
     return "Hello, my love!"
   end
 end
-
-greet(jim)
-greet(james)
