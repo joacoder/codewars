@@ -9,5 +9,3 @@ def maskify(credit_card)
   final_array = left_array.map {|e| "#"} + right_array
   final_array.join("")
 end
-
-puts maskify(6)
